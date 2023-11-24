@@ -1,0 +1,10 @@
+public class main () {
+   public static void main (string [] args) {
+        point newpoint = new point ();
+        newpoint.absise = 10;
+        newpoint.ordone = 20;
+        newpoint.norme();
+
+system.out.println(newpoint.absise);
+system.out.println(newpoint.ordone);
+newpoint.norme();
